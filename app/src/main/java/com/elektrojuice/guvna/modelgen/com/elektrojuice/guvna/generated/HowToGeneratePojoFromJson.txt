@@ -1,0 +1,4 @@
+These classes are generated using jsonschema2pojo gradle POJO generator library.
+Any json files that require a counterpart POJO class can be placed in the "schema" directory of
+this project and then running the GeneratePOJO build configuration will generate the POJO and place it
+in the com.elektrojuice.guvna.generated package

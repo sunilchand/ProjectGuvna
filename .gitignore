@@ -1,0 +1,11 @@
+.gradle
+/build
+/local.properties
+
+# User-specific configurations
+.idea/
+*.iml
+app/app.iml
+
+# OS-specific files
+
